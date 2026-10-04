@@ -1,0 +1,108 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="488" viewBox="0 0 1200 488">
+<defs><marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#64748B"/></marker></defs>
+<rect x="0.5" y="0.5" width="1199" height="487" rx="16" fill="#FFFFFF" stroke="#E2E8F0"/>
+<text x="40" y="52" font-family="-apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="24" font-weight="700" fill="#0F172A" text-anchor="start">From PDF packet to validated structured data</text>
+<text x="40" y="80" font-family="-apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="400" fill="#64748B" text-anchor="start">Every value keeps its page, its box and its confidence from extraction to export</text>
+<line x1="239.2" y1="171.0" x2="265.2" y2="171.0" stroke="#64748B" stroke-width="2" marker-end="url(#arr)"/>
+<line x1="470.4" y1="171.0" x2="496.4" y2="171.0" stroke="#64748B" stroke-width="2" marker-end="url(#arr)"/>
+<line x1="701.5999999999999" y1="171.0" x2="727.5999999999999" y2="171.0" stroke="#64748B" stroke-width="2" marker-end="url(#arr)"/>
+<line x1="932.8" y1="171.0" x2="958.8" y2="171.0" stroke="#64748B" stroke-width="2" marker-end="url(#arr)"/>
+<line x1="1062.3999999999999" y1="234" x2="1062.3999999999999" y2="280" stroke="#64748B" stroke-width="2" marker-end="url(#arr)"/>
+<line x1="960.8" y1="345.0" x2="934.8" y2="345.0" stroke="#64748B" stroke-width="2" marker-end="url(#arr)"/>
+<line x1="729.5999999999999" y1="345.0" x2="703.5999999999999" y2="345.0" stroke="#64748B" stroke-width="2" marker-end="url(#arr)"/>
+<line x1="498.4" y1="345.0" x2="472.4" y2="345.0" stroke="#64748B" stroke-width="2" marker-end="url(#arr)"/>
+<line x1="267.2" y1="345.0" x2="241.2" y2="345.0" stroke="#64748B" stroke-width="2" marker-end="url(#arr)"/>
+<rect x="40.0" y="112" width="195.2" height="118" rx="12" fill="#F1F5F9" stroke="#94A3B8" stroke-width="1.5"/>
+<rect x="40.0" y="112" width="6" height="118" rx="3" fill="#475569"/>
+<circle cx="70.0" cy="140" r="13" fill="#475569"/>
+<text x="70.0" y="145" font-family="-apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF" text-anchor="middle">1</text>
+<text x="92.0" y="145" font-family="-apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="700" fill="#0F172A" text-anchor="start">Document / PDF</text>
+<text x="58.0" y="171" font-family="-apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="400" fill="#475569" text-anchor="start">Multi-document logistics</text>
+<text x="58.0" y="187" font-family="-apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="400" fill="#475569" text-anchor="start">packet, born-digital or</text>
+<text x="58.0" y="203" font-family="-apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="400" fill="#475569" text-anchor="start">scanned with OCR layer</text>
+<rect x="271.2" y="112" width="195.2" height="118" rx="12" fill="#EFF6FF" stroke="#93C5FD" stroke-width="1.5"/>
+<rect x="271.2" y="112" width="6" height="118" rx="3" fill="#1D4ED8"/>
+<circle cx="301.2" cy="140" r="13" fill="#1D4ED8"/>
+<text x="301.2" y="145" font-family="-apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF" text-anchor="middle">2</text>
+<text x="323.2" y="145" font-family="-apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="700" fill="#0F172A" text-anchor="start">Page processing</text>
+<text x="289.2" y="171" font-family="-apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="400" fill="#475569" text-anchor="start">Render at two resolutions;</text>
+<text x="289.2" y="187" font-family="-apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="400" fill="#475569" text-anchor="start">text layer with a box per</text>
+<text x="289.2" y="203" font-family="-apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="400" fill="#475569" text-anchor="start">character</text>
+<rect x="502.4" y="112" width="195.2" height="118" rx="12" fill="#F5F3FF" stroke="#C4B5FD" stroke-width="1.5"/>
+<rect x="502.4" y="112" width="6" height="118" rx="3" fill="#6D28D9"/>
+<circle cx="532.4" cy="140" r="13" fill="#6D28D9"/>
+<text x="532.4" y="145" font-family="-apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF" text-anchor="middle">3</text>
+<text x="554.4" y="145" font-family="-apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="700" fill="#0F172A" text-anchor="start">Page</text>
+<text x="554.4" y="163" font-family="-apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="700" fill="#0F172A" text-anchor="start">classification</text>
+<text x="520.4" y="189" font-family="-apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="400" fill="#475569" text-anchor="start">Doc type, confidence,</text>
+<text x="520.4" y="205" font-family="-apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="400" fill="#475569" text-anchor="start">continuation and</text>
+<text x="520.4" y="221" font-family="-apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="400" fill="#475569" text-anchor="start">self-contained flags</text>
+<rect x="733.5999999999999" y="112" width="195.2" height="118" rx="12" fill="#F5F3FF" stroke="#C4B5FD" stroke-width="1.5"/>
+<rect x="733.5999999999999" y="112" width="6" height="118" rx="3" fill="#6D28D9"/>
+<circle cx="763.5999999999999" cy="140" r="13" fill="#6D28D9"/>
+<text x="763.5999999999999" y="145" font-family="-apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF" text-anchor="middle">4</text>
+<text x="785.5999999999999" y="145" font-family="-apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="700" fill="#0F172A" text-anchor="start">Segmentation</text>
+<text x="751.5999999999999" y="171" font-family="-apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="400" fill="#475569" text-anchor="start">Continuations join their</text>
+<text x="751.5999999999999" y="187" font-family="-apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="400" fill="#475569" text-anchor="start">document; terms pages fold</text>
+<text x="751.5999999999999" y="203" font-family="-apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="400" fill="#475569" text-anchor="start">in as IGNORE</text>
+<rect x="964.8" y="112" width="195.2" height="118" rx="12" fill="#F5F3FF" stroke="#C4B5FD" stroke-width="1.5"/>
+<rect x="964.8" y="112" width="6" height="118" rx="3" fill="#6D28D9"/>
+<circle cx="994.8" cy="140" r="13" fill="#6D28D9"/>
+<text x="994.8" y="145" font-family="-apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF" text-anchor="middle">5</text>
+<text x="1016.8" y="145" font-family="-apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="700" fill="#0F172A" text-anchor="start">Field extraction</text>
+<text x="982.8" y="171" font-family="-apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="400" fill="#475569" text-anchor="start">Schema split into field</text>
+<text x="982.8" y="187" font-family="-apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="400" fill="#475569" text-anchor="start">groups; page 1 full</text>
+<text x="982.8" y="203" font-family="-apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="400" fill="#475569" text-anchor="start">schema, continuations fill</text>
+<text x="982.8" y="219" font-family="-apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="400" fill="#475569" text-anchor="start">gaps</text>
+<rect x="964.8" y="286" width="195.2" height="118" rx="12" fill="#F5F3FF" stroke="#C4B5FD" stroke-width="1.5"/>
+<rect x="964.8" y="286" width="6" height="118" rx="3" fill="#6D28D9"/>
+<circle cx="994.8" cy="314" r="13" fill="#6D28D9"/>
+<text x="994.8" y="319" font-family="-apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF" text-anchor="middle">6</text>
+<text x="1016.8" y="319" font-family="-apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="700" fill="#0F172A" text-anchor="start">Bounding boxes</text>
+<text x="982.8" y="345" font-family="-apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="400" fill="#475569" text-anchor="start">Separate localisation</text>
+<text x="982.8" y="361" font-family="-apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="400" fill="#475569" text-anchor="start">pass: 0–1000 candidates,</text>
+<text x="982.8" y="377" font-family="-apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="400" fill="#475569" text-anchor="start">NMS, row-scoped cells</text>
+<rect x="733.5999999999999" y="286" width="195.2" height="118" rx="12" fill="#F5F3FF" stroke="#C4B5FD" stroke-width="1.5"/>
+<rect x="733.5999999999999" y="286" width="6" height="118" rx="3" fill="#6D28D9"/>
+<circle cx="763.5999999999999" cy="314" r="13" fill="#6D28D9"/>
+<text x="763.5999999999999" y="319" font-family="-apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF" text-anchor="middle">7</text>
+<text x="785.5999999999999" y="319" font-family="-apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="700" fill="#0F172A" text-anchor="start">Confidence</text>
+<text x="751.5999999999999" y="345" font-family="-apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="400" fill="#475569" text-anchor="start">Per value; OCR repairs and</text>
+<text x="751.5999999999999" y="361" font-family="-apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="400" fill="#475569" text-anchor="start">fuzzy label matches lower</text>
+<text x="751.5999999999999" y="377" font-family="-apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="400" fill="#475569" text-anchor="start">it</text>
+<rect x="502.4" y="286" width="195.2" height="118" rx="12" fill="#FFF7ED" stroke="#FDBA74" stroke-width="1.5"/>
+<rect x="502.4" y="286" width="6" height="118" rx="3" fill="#C2410C"/>
+<circle cx="532.4" cy="314" r="13" fill="#C2410C"/>
+<text x="532.4" y="319" font-family="-apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF" text-anchor="middle">8</text>
+<text x="554.4" y="319" font-family="-apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="700" fill="#0F172A" text-anchor="start">Validation</text>
+<text x="520.4" y="345" font-family="-apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="400" fill="#475569" text-anchor="start">Row sums, totals, dates,</text>
+<text x="520.4" y="361" font-family="-apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="400" fill="#475569" text-anchor="start">ISO 6346 check digits,</text>
+<text x="520.4" y="377" font-family="-apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="400" fill="#475569" text-anchor="start">cross-document refs</text>
+<rect x="271.2" y="286" width="195.2" height="118" rx="12" fill="#ECFDF5" stroke="#6EE7B7" stroke-width="1.5"/>
+<rect x="271.2" y="286" width="6" height="118" rx="3" fill="#047857"/>
+<circle cx="301.2" cy="314" r="13" fill="#047857"/>
+<text x="301.2" y="319" font-family="-apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF" text-anchor="middle">9</text>
+<text x="323.2" y="319" font-family="-apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="700" fill="#0F172A" text-anchor="start">Human review</text>
+<text x="289.2" y="345" font-family="-apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="400" fill="#475569" text-anchor="start">Flagged values queued;</text>
+<text x="289.2" y="361" font-family="-apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="400" fill="#475569" text-anchor="start">accept, correct, reject or</text>
+<text x="289.2" y="377" font-family="-apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="400" fill="#475569" text-anchor="start">mark uncertain</text>
+<rect x="40.0" y="286" width="195.2" height="118" rx="12" fill="#FEFCE8" stroke="#FDE047" stroke-width="1.5"/>
+<rect x="40.0" y="286" width="6" height="118" rx="3" fill="#A16207"/>
+<circle cx="70.0" cy="314" r="13" fill="#A16207"/>
+<text x="70.0" y="319" font-family="-apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF" text-anchor="middle">10</text>
+<text x="92.0" y="319" font-family="-apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="700" fill="#0F172A" text-anchor="start">Validated data</text>
+<text x="58.0" y="345" font-family="-apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="400" fill="#475569" text-anchor="start">Typed JSON with page, box,</text>
+<text x="58.0" y="361" font-family="-apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="400" fill="#475569" text-anchor="start">status and audit trail</text>
+<rect x="40" y="447" width="14" height="14" rx="4" fill="#F1F5F9" stroke="#475569"/>
+<text x="62" y="458" font-family="-apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="500" fill="#475569" text-anchor="start">Input / output</text>
+<rect x="166" y="447" width="14" height="14" rx="4" fill="#EFF6FF" stroke="#1D4ED8"/>
+<text x="188" y="458" font-family="-apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="500" fill="#475569" text-anchor="start">Classical computer vision</text>
+<rect x="365" y="447" width="14" height="14" rx="4" fill="#F5F3FF" stroke="#6D28D9"/>
+<text x="387" y="458" font-family="-apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="500" fill="#475569" text-anchor="start">AI / model stage</text>
+<rect x="504" y="447" width="14" height="14" rx="4" fill="#FFF7ED" stroke="#C2410C"/>
+<text x="526" y="458" font-family="-apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="500" fill="#475569" text-anchor="start">Rules / validation</text>
+<rect x="656" y="447" width="14" height="14" rx="4" fill="#ECFDF5" stroke="#047857"/>
+<text x="678" y="458" font-family="-apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="500" fill="#475569" text-anchor="start">Human in the loop</text>
+<rect x="802" y="447" width="14" height="14" rx="4" fill="#FEFCE8" stroke="#A16207"/>
+<text x="824" y="458" font-family="-apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="500" fill="#475569" text-anchor="start">Decision</text>
+</svg>

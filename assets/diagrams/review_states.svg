@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="560" viewBox="0 0 1200 560">
+<defs><marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#64748B"/></marker></defs>
+<rect x="0.5" y="0.5" width="1199" height="559" rx="16" fill="#FFFFFF" stroke="#E2E8F0"/>
+<text x="40" y="52" font-family="-apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="24" font-weight="700" fill="#0F172A" text-anchor="start">Human-in-the-loop review states</text>
+<text x="40" y="80" font-family="-apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="400" fill="#64748B" text-anchor="start">Fields are decided one by one; a document can only be validated when nothing is left open</text>
+<text x="40" y="124" font-family="-apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="700" fill="#64748B" text-anchor="start">FIELD</text>
+<rect x="40" y="162" width="200" height="70" rx="12" fill="#F5F3FF" stroke="#C4B5FD" stroke-width="1.5"/>
+<rect x="40" y="162" width="6" height="70" rx="3" fill="#6D28D9"/>
+<text x="58" y="191" font-family="-apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="700" fill="#6D28D9" text-anchor="start">extracted</text>
+<text x="58" y="211" font-family="-apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="11.5" font-weight="400" fill="#475569" text-anchor="start">value, page, box,</text>
+<text x="58" y="225" font-family="-apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="11.5" font-weight="400" fill="#475569" text-anchor="start">confidence</text>
+<rect x="330" y="162" width="220" height="70" rx="12" fill="#FFF7ED" stroke="#FDBA74" stroke-width="1.5"/>
+<rect x="330" y="162" width="6" height="70" rx="3" fill="#C2410C"/>
+<text x="348" y="191" font-family="-apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="700" fill="#C2410C" text-anchor="start">needs_review</text>
+<text x="348" y="211" font-family="-apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="11.5" font-weight="400" fill="#475569" text-anchor="start">conf &lt; 0.80, OCR repair,</text>
+<text x="348" y="225" font-family="-apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="11.5" font-weight="400" fill="#475569" text-anchor="start">unlocated, failing rule</text>
+<line x1="242" y1="197" x2="326" y2="197" stroke="#64748B" stroke-width="2" marker-end="url(#arr)"/>
+<text x="284.0" y="189.0" font-family="-apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="11" font-weight="500" fill="#64748B" text-anchor="middle">flagged</text>
+<rect x="700" y="112" width="450" height="36" rx="12" fill="#ECFDF5" stroke="#6EE7B7" stroke-width="1.5"/>
+<rect x="700" y="112" width="6" height="36" rx="3" fill="#047857"/>
+<text x="718" y="135.0" font-family="-apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="700" fill="#047857" text-anchor="start">accepted</text>
+<text x="850" y="134.0" font-family="-apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="11.5" font-weight="400" fill="#475569" text-anchor="start">value confirmed as read</text>
+<line x1="552" y1="197" x2="696" y2="130" stroke="#64748B" stroke-width="2" marker-end="url(#arr)"/>
+<rect x="700" y="156" width="450" height="36" rx="12" fill="#ECFDF5" stroke="#6EE7B7" stroke-width="1.5"/>
+<rect x="700" y="156" width="6" height="36" rx="3" fill="#047857"/>
+<text x="718" y="179.0" font-family="-apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="700" fill="#047857" text-anchor="start">corrected</text>
+<text x="850" y="178.0" font-family="-apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="11.5" font-weight="400" fill="#475569" text-anchor="start">new value, re-typed, with a note</text>
+<line x1="552" y1="197" x2="696" y2="174" stroke="#64748B" stroke-width="2" marker-end="url(#arr)"/>
+<rect x="700" y="200" width="450" height="36" rx="12" fill="#FEFCE8" stroke="#FDE047" stroke-width="1.5"/>
+<rect x="700" y="200" width="6" height="36" rx="3" fill="#A16207"/>
+<text x="718" y="223.0" font-family="-apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="700" fill="#A16207" text-anchor="start">uncertain</text>
+<text x="850" y="222.0" font-family="-apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="11.5" font-weight="400" fill="#475569" text-anchor="start">keeps the document from validating</text>
+<line x1="552" y1="197" x2="696" y2="218" stroke="#64748B" stroke-width="2" marker-end="url(#arr)"/>
+<rect x="700" y="244" width="450" height="36" rx="12" fill="#FEF2F2" stroke="#FCA5A5" stroke-width="1.5"/>
+<rect x="700" y="244" width="6" height="36" rx="3" fill="#B91C1C"/>
+<text x="718" y="267.0" font-family="-apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="700" fill="#B91C1C" text-anchor="start">rejected</text>
+<text x="850" y="266.0" font-family="-apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="11.5" font-weight="400" fill="#475569" text-anchor="start">value discarded</text>
+<line x1="552" y1="197" x2="696" y2="262" stroke="#64748B" stroke-width="2" marker-end="url(#arr)"/>
+<text x="40" y="334" font-family="-apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="700" fill="#64748B" text-anchor="start">DOCUMENT</text>
+<rect x="40" y="382" width="200" height="70" rx="12" fill="#F5F3FF" stroke="#C4B5FD" stroke-width="1.5"/>
+<rect x="40" y="382" width="6" height="70" rx="3" fill="#6D28D9"/>
+<text x="58" y="411" font-family="-apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="700" fill="#6D28D9" text-anchor="start">extracted</text>
+<text x="58" y="431" font-family="-apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="11.5" font-weight="400" fill="#475569" text-anchor="start">pipeline finished</text>
+<rect x="330" y="382" width="220" height="70" rx="12" fill="#FFF7ED" stroke="#FDBA74" stroke-width="1.5"/>
+<rect x="330" y="382" width="6" height="70" rx="3" fill="#C2410C"/>
+<text x="348" y="411" font-family="-apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="700" fill="#C2410C" text-anchor="start">needs_review</text>
+<text x="348" y="431" font-family="-apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="11.5" font-weight="400" fill="#475569" text-anchor="start">flagged fields or failing</text>
+<text x="348" y="445" font-family="-apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="11.5" font-weight="400" fill="#475569" text-anchor="start">rules</text>
+<rect x="640" y="382" width="230" height="70" rx="12" fill="#ECFDF5" stroke="#6EE7B7" stroke-width="1.5"/>
+<rect x="640" y="382" width="6" height="70" rx="3" fill="#047857"/>
+<text x="658" y="411" font-family="-apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="700" fill="#047857" text-anchor="start">validated</text>
+<text x="658" y="431" font-family="-apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="11.5" font-weight="400" fill="#475569" text-anchor="start">signed off, export ready; can</text>
+<text x="658" y="445" font-family="-apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="11.5" font-weight="400" fill="#475569" text-anchor="start">be reopened</text>
+<rect x="950" y="382" width="200" height="70" rx="12" fill="#FEF2F2" stroke="#FCA5A5" stroke-width="1.5"/>
+<rect x="950" y="382" width="6" height="70" rx="3" fill="#B91C1C"/>
+<text x="968" y="411" font-family="-apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="700" fill="#B91C1C" text-anchor="start">rejected</text>
+<text x="968" y="431" font-family="-apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="11.5" font-weight="400" fill="#475569" text-anchor="start">can be reopened for review</text>
+<line x1="242" y1="417" x2="326" y2="417" stroke="#64748B" stroke-width="2" marker-end="url(#arr)"/>
+<text x="284.0" y="409.0" font-family="-apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="11" font-weight="500" fill="#64748B" text-anchor="middle">flags</text>
+<line x1="552" y1="417" x2="636" y2="417" stroke="#64748B" stroke-width="2" marker-end="url(#arr)"/>
+<text x="594.0" y="409.0" font-family="-apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="11" font-weight="500" fill="#64748B" text-anchor="middle">all decided</text>
+<path d="M 140 380 C 140 340, 755 340, 755 378" fill="none" stroke="#64748B" stroke-width="2" marker-end="url(#arr)"/>
+<text x="600" y="372" font-family="-apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="11" font-weight="500" fill="#64748B" text-anchor="middle">no flags</text>
+<path d="M 470 454 C 470 490, 1030 490, 1030 456" fill="none" stroke="#64748B" stroke-width="2" marker-end="url(#arr)"/>
+<text x="750" y="494" font-family="-apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="11" font-weight="500" fill="#64748B" text-anchor="middle">reject</text>
+<text x="40" y="538" font-family="-apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="400" fill="#64748B" text-anchor="start">Every decision re-runs the rules and is written to the audit trail: trung.pn decides fields · nghia.pn signs off unflagged values · tai.tv validates.</text>
+</svg>
